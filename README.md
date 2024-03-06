@@ -15,22 +15,19 @@ I followed the tutorial provided in the YouTube video [here](https://www.youtube
 I accessed the existing reference architectures to understand their current structure and components. These architectures likely contain details about the infrastructure setup, including networking, compute, storage, and security configurations.
 
 ### High-Level AWS Infrastructure Diagrams:
-#### Diagram 1: Highly Available Application Using EC2 Instances
-
-![Highly Available Application Using EC2 Instances](https://i.imgur.com/Klkli2k.png)
+![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/9bb4daff-2ba8-4a4f-9ff6-9d66f4d45f0b)
 
 #### Diagram 2: Highly Available Application Using AWS Fargate
 
-![Highly Available Application Using AWS Fargate](https://i.imgur.com/NRrypM3.png)
 
 ### Acceptance Criteria:
 1. Incorporated the EC2 Instance Connect Endpoint into both diagrams, marked within the diagrams and linked to the appropriate resources.
 2. Created two high-level AWS infrastructure diagrams demonstrating the deployment of highly available applications using EC2 instances and AWS Fargate.
-3. Ensured the diagrams are clear, organized, and labeled following AWS architecture best practices.
+3. Ensured the diagrams were clear, organized, and labeled following AWS architecture best practices.
 4. Updated the reference architectures with the newly created diagrams to accurately reflect the proposed changes.
 
 ### Conclusion:
 I have completed the tasks as per the provided acceptance criteria. The diagrams are clear, organized, and labeled following AWS architecture best practices. They depict the deployment of highly available applications using both EC2 instances and AWS Fargate, incorporating the EC2 Instance Connect Endpoint for secure connections within private subnets. Let me know if any further modifications are needed.
 
-![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/9bb4daff-2ba8-4a4f-9ff6-9d66f4d45f0b)
+
 
