@@ -15,6 +15,7 @@ I followed the tutorial provided in the YouTube video [here](https://www.youtube
 I accessed the existing reference architectures to understand their current structure and components. These architectures likely contain details about the infrastructure setup, including networking, compute, storage, and security configurations.
 
 ### High-Level AWS Infrastructure Diagrams:
+#### Diagram 1: Highly Available Application Using AWS ec2
 ![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/9bb4daff-2ba8-4a4f-9ff6-9d66f4d45f0b)
 
 #### Diagram 2: Highly Available Application Using AWS Fargate
