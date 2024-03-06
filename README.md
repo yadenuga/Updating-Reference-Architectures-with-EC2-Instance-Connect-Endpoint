@@ -12,10 +12,10 @@ I visited the Draw IO tool at [https://app.diagrams.net](https://app.diagrams.ne
 I followed the tutorial provided in the YouTube video [here](https://www.youtube.com/watch?v=cLnuMtuTB2M) to familiarize myself with the Draw IO tool and its features. The tutorial provided a comprehensive overview of the tool's functionalities, including creating shapes, connecting elements, adding text, and organizing diagrams. Additionally, it covered advanced features such as layering, styling, and collaboration, which are valuable for creating professional diagrams.
 
 ### Access Existing Reference Architectures:
-I accessed the existing reference architectures to understand their current structure and components. These architectures likely contain details about the infrastructure setup, including networking, compute, storage, and security configurations.
+I accessed the existing reference architectures to understand their current structure and components. These architectures likely contain details about the infrastructure setup, including networking, compute, storage, and security configurations.https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/blob/main/README.md
 
 ### High-Level AWS Infrastructure Diagrams:
-#### Diagram 1: Highly Available Application Using AWS ec2
+#### Diagram 1: Highly Available Application Using AWS EC2
 ![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/9bb4daff-2ba8-4a4f-9ff6-9d66f4d45f0b)
 
 #### Diagram 2: Highly Available Application Using AWS Fargate
