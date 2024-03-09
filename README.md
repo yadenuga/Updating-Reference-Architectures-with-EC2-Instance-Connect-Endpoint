@@ -15,7 +15,7 @@ I accessed the existing reference architectures to understand their current stru
 
 ### High-Level AWS Infrastructure Diagrams:
 #### Diagram 1: Highly Available Application Using AWS EC2
-![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/656d833b-63fb-4190-9c2d-6be504de4b30)
+![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/96c6c5c6-ecfc-416a-8e78-e27ebc4b4e11)
 
 
 #### Diagram 2: Highly Available Application Using AWS Fargate
