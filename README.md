@@ -3,8 +3,7 @@ To update the existing reference architectures to include the EC2 Instance Conne
 
 To fulfill your request, I'll review the Draw IO tool, follow the tutorial in the provided YouTube video, access existing reference architectures, and then create two high-level AWS infrastructure diagrams incorporating the EC2 Instance Connect Endpoint. Finally, I'll update the reference architectures with the new diagrams.
 
-Let's start:
-
+Steps:
 ### Draw IO Tool Review:
 I visited the Draw IO tool at [https://app.diagrams.net](https://app.diagrams.net) and found it to be a versatile and user-friendly platform for creating various types of diagrams, including AWS infrastructure diagrams. Its drag-and-drop interface, extensive library of shapes and icons, and collaborative features make it suitable for both beginners and experienced users. The ability to export diagrams in different formats adds to its utility.
 
@@ -16,9 +15,11 @@ I accessed the existing reference architectures to understand their current stru
 
 ### High-Level AWS Infrastructure Diagrams:
 #### Diagram 1: Highly Available Application Using AWS EC2
-![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/9bb4daff-2ba8-4a4f-9ff6-9d66f4d45f0b)
+![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/656d833b-63fb-4190-9c2d-6be504de4b30)
+
 
 #### Diagram 2: Highly Available Application Using AWS Fargate
+![image](https://github.com/yadenuga/Updating-Reference-Architectures-with-EC2-Instance-Connect-Endpoint/assets/25983732/704c2461-9fe8-42f6-99b4-3785f7957924)
 
 
 ### Acceptance Criteria:
